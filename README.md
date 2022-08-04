@@ -1,9 +1,3 @@
-...
-<html> 
- </html>
-...
-
-
 
 
 # sobre min
